@@ -14,3 +14,5 @@ This is the deployment section.
 
 ## How To Contribute
 
+## Copyright
+Copyright 2019 Git Training.
