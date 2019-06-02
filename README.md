@@ -13,6 +13,7 @@ This is the introduction section.
 This is the deployment section.
 
 ## How To Contribute
+Fork this repository and submit pull request for review.
 
 ## Copyright
 Copyright 2019 Git Training.
