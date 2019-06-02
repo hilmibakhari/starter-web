@@ -6,10 +6,11 @@ This repository is for showing how Git and GitHub work with multiple areas
 This is the introduction section.
 
 ## Purpose
+ Showing the right way of using Git.
 
-Sample website with plenty of files for demos
 
 ## Deployment
+This is the deployment section.
 
 ## How To Contribute
 
