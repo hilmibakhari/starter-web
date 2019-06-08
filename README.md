@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work with multiple areas
 Adding a line for rebasing example.
+Adding more changes from feature1 branch.
 
 ## Introduction
 This is the introduction section.
